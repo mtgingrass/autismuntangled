@@ -1,37 +1,23 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Autism Untangled - Why"
+author: "Mark Gingrass"
+date: 2022-02-24
+categories: ["outdoors"]
+tags: [outdoors", "hiking"]
+summary: Why we started Autism Untangled? More words. blah blah blah. 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# Why Autism and Untangled
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Liz and I decided to create a niche blog and vlog about taking kids with autism camping and hiking. This idea quickly spun into a million other ideas. However, we want to keep this very specific to outdoorsy, camping, and hiking related...for now. 
 
-You can embed an R code chunk like this:
+It is not easy to blah blah blah example text...
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+# Meet the Kids
 
-# Including Plots
+Show photo of kids blah blah. place holder. 
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
