@@ -1,6 +1,7 @@
 ---
 title: "Autism Untangled - Why"
 author: "Mark Gingrass"
+cover: /post/2015-07-23-r-rmarkdown_files/Lizandkids1.png
 date: 2022-02-24
 categories: ["outdoors"]
 tags: [outdoors", "hiking"]
