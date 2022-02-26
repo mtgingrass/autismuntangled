@@ -4,7 +4,7 @@ author: "Mark Gingrass"
 date: 2022-02-24
 categories: ["outdoors"]
 tags: [outdoors", "hiking"]
-summary: Why we started Autism Untangled? More words. blah blah blah. 
+summary: Why we started Autism Untangled? More words. blah blah blah.
 ---
 
 ```{r setup, include=FALSE}
