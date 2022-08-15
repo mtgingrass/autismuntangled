@@ -1,0 +1,23 @@
+---
+title: Autism and Disney Surprised
+author: 'mtgingrass'
+date: '2022-08-15'
+cover: /post/2022-08-15-autism-and-disney-surprised/images/Autism & Disney.jpg
+categories:
+  - Major Activities
+tags:
+  - disney
+  - activities
+  - disabled
+summary: Test
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Disney & Autism
+
+![](images/Katherine & Brooklyne Princess.jpg)
+
+
